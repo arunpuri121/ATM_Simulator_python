@@ -1,7 +1,7 @@
 <h1>ATM_Simulator_python</h1>
 this is an atm simulator. the codes are written based on python programming language.
 
-<b>PIN for the atm simulator - 1234</b>
+<h3>PIN for the atm simulator - 1234</h3>
 
 To make this atm simulator we have made a class and have used a constructor to intialise the current balance to 10000 and have set the pin to 1234, there are some several methods are being made in the class to perform the several task in the atm_simulation machine i.e - check_balance, withdrwal, deposit and exit.
 
